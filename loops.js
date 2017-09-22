@@ -19,7 +19,7 @@ function maybeTrue() {
 }
  function doWhileLoop(array)  {
 do {
-  array.pop[1]
+  array.shift[1]
 } while (array.length > 0 && maybeTrue())
   return array
 }
